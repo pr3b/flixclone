@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flixclone/static/css/main.3cb51a84.chunk.css",
+    "main.js": "/flixclone/static/js/main.124a44b9.chunk.js",
+    "main.js.map": "/flixclone/static/js/main.124a44b9.chunk.js.map",
+    "runtime-main.js": "/flixclone/static/js/runtime-main.e17009d2.js",
+    "runtime-main.js.map": "/flixclone/static/js/runtime-main.e17009d2.js.map",
+    "static/js/2.1ca65eef.chunk.js": "/flixclone/static/js/2.1ca65eef.chunk.js",
+    "static/js/2.1ca65eef.chunk.js.map": "/flixclone/static/js/2.1ca65eef.chunk.js.map",
+    "static/js/3.72cce6c9.chunk.js": "/flixclone/static/js/3.72cce6c9.chunk.js",
+    "static/js/3.72cce6c9.chunk.js.map": "/flixclone/static/js/3.72cce6c9.chunk.js.map",
+    "index.html": "/flixclone/index.html",
+    "static/css/main.3cb51a84.chunk.css.map": "/flixclone/static/css/main.3cb51a84.chunk.css.map",
+    "static/js/2.1ca65eef.chunk.js.LICENSE.txt": "/flixclone/static/js/2.1ca65eef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e17009d2.js",
+    "static/js/2.1ca65eef.chunk.js",
+    "static/css/main.3cb51a84.chunk.css",
+    "static/js/main.124a44b9.chunk.js"
+  ]
+}
